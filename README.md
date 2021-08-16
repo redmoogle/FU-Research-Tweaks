@@ -1,6 +1,6 @@
 # FU-Research-Tweaks
 
-Tweaks the research rate of FU
+Tweaks the research rate of FU  
 [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2576946364)
 
 - Changes:
