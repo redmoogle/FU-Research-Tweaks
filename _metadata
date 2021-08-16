@@ -1,0 +1,11 @@
+{
+  "name" : "furesearcht",
+  "friendlyName" : "FU Research Tweaks",
+  "description" : "Tweaks research rate modifiers for FU",
+  "author" : "Redmoogle",
+  "version" : "1.0.0",
+  "steamContentId" : "000000001",
+  "tags" : "Miscellaneous|Planets and Environments|Mechanics",
+  "requires" : ["FrackinUniverse"],
+  "priority" : 0
+}
